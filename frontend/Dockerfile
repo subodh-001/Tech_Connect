@@ -1,3 +1,4 @@
+# SmartTech Connect v2.1.0 - full project update April 2025
 # Frontend Dockerfile for SmartTech Connect
 # Multi-stage build for optimized production image
 

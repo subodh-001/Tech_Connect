@@ -1,4 +1,5 @@
 // SmartTech Connect v2.1.0 - full project update April 2025
+// SmartTech Connect v2.1.0 - full project update April 2025
 import { defineConfig } from 'vite'
 import react from '@vitejs/plugin-react'
 import path from 'path'
