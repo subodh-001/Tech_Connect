@@ -1,4 +1,4 @@
-// Updated: April 2025 - SmartTech Connect
+// SmartTech Connect v2.1.0 | Last reviewed: April 24, 2025
 import React from "react";
 import { createRoot } from "react-dom/client";
 import { GoogleOAuthProvider } from "@react-oauth/google";

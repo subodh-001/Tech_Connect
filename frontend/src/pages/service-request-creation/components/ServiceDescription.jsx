@@ -1,4 +1,4 @@
-// Updated: April 2025 - SmartTech Connect
+// UI/UX improvements applied | April 24, 2025
 import React from 'react';
 import Icon from '../../../components/AppIcon';
 

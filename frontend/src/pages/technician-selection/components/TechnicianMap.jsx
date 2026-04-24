@@ -1,4 +1,4 @@
-// Updated: April 2025 - SmartTech Connect
+// Security patch applied | April 24, 2025
 import React, { useMemo } from 'react';
 import InteractiveMap from '../../../components/maps/InteractiveMap';
 

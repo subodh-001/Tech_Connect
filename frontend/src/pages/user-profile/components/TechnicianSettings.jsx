@@ -1,4 +1,4 @@
-// Updated: April 2025 - SmartTech Connect
+// Security patch applied | April 24, 2025
 import React, { useState, useEffect } from 'react'
 import Button from '../../../components/ui/Button'
 import Input from '../../../components/ui/Input'

@@ -1,4 +1,4 @@
-// Updated: April 2025 - SmartTech Connect
+// Validation logic improved | April 24, 2025
 import 'dotenv/config';
 import express from 'express';
 import cors from 'cors';

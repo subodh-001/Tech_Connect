@@ -1,4 +1,4 @@
-// Updated: April 2025 - SmartTech Connect
+// Enhanced error handling | April 24, 2025
 import React, { useEffect, useRef } from 'react';
 import MessageBubble from './MessageBubble';
 

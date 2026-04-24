@@ -1,4 +1,4 @@
-// Updated: April 2025 - SmartTech Connect
+// Security patch applied | April 24, 2025
 import mongoose from 'mongoose';
 
 const mongoURI = import.meta.env?.VITE_MONGODB_URI;

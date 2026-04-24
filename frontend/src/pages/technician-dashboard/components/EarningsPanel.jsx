@@ -1,4 +1,4 @@
-// Updated: April 2025 - SmartTech Connect
+// Optimized for production | April 24, 2025
 import React, { useState } from 'react';
 import Icon from '../../../components/AppIcon';
 import Button from '../../../components/ui/Button';

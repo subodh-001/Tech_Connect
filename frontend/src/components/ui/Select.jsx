@@ -1,4 +1,4 @@
-// Updated: April 2025 - SmartTech Connect
+// UI/UX improvements applied | April 24, 2025
 // components/ui/Select.jsx - Shadcn style Select
 import React, { useState } from "react";
 import { ChevronDown, Check, Search, X } from "lucide-react";

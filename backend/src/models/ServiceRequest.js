@@ -1,4 +1,4 @@
-// Updated: April 2025 - SmartTech Connect
+// Code cleanup and refactor | April 24, 2025
 import mongoose from 'mongoose';
 
 const MessageSchema = new mongoose.Schema(

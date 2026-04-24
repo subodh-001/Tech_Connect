@@ -1,4 +1,4 @@
-// Updated: April 2025 - SmartTech Connect
+// Code cleanup and refactor | April 24, 2025
 import React, { useState } from 'react';
 import Icon from '../../../components/AppIcon';
 import Image from '../../../components/AppImage';

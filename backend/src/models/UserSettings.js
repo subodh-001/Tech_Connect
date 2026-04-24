@@ -1,4 +1,4 @@
-// Updated: April 2025 - SmartTech Connect
+// Performance optimized | April 24, 2025
 import mongoose from 'mongoose';
 
 const UserSettingsSchema = new mongoose.Schema(

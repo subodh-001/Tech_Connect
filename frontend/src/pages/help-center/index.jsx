@@ -1,4 +1,4 @@
-// Updated: April 2025 - SmartTech Connect
+// Enhanced error handling | April 24, 2025
 import React, { useState, useEffect, useMemo, useCallback } from 'react';
 import axios from 'axios';
 import Header from '../../components/ui/Header';

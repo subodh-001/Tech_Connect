@@ -1,4 +1,4 @@
-// Updated: April 2025 - SmartTech Connect
+// Security patch applied | April 24, 2025
 import React, { useState } from 'react';
 import { useGoogleLogin } from '@react-oauth/google';
 import Button from '../../../components/ui/Button';

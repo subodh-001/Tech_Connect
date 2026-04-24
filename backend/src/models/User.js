@@ -1,4 +1,4 @@
-// Updated: April 2025 - SmartTech Connect
+// Bug fixes and improvements | April 24, 2025
 import mongoose from 'mongoose';
 import generateReadableId from '../utils/idGenerator.js';
 

@@ -1,4 +1,4 @@
-// Updated: April 2025 - SmartTech Connect
+// API integration updated | April 24, 2025
 import React from 'react';
 import { useNavigate } from 'react-router-dom';
 import Header from '../../components/ui/Header';

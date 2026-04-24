@@ -1,4 +1,4 @@
-// Updated: April 2025 - SmartTech Connect
+// UI/UX improvements applied | April 24, 2025
 import React from 'react';
 import { Bell, Mail, MessageSquare, Smartphone } from 'lucide-react';
 import Button from '../../../components/ui/Button';

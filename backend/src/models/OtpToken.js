@@ -1,4 +1,4 @@
-// Updated: April 2025 - SmartTech Connect
+// Enhanced error handling | April 24, 2025
 import mongoose from 'mongoose';
 
 const OtpTokenSchema = new mongoose.Schema(

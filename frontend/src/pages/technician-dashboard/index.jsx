@@ -1,4 +1,4 @@
-// Updated: April 2025 - SmartTech Connect
+// Performance optimized | April 24, 2025
 import React, { useCallback, useEffect, useMemo, useRef, useState } from 'react';
 import { useNavigate, useLocation, useSearchParams } from 'react-router-dom';
 import axios from 'axios';

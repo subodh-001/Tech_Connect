@@ -1,4 +1,4 @@
-// Updated: April 2025 - SmartTech Connect
+// Security patch applied | April 24, 2025
 import React from 'react';
 import { Link, useNavigate } from 'react-router-dom';
 import Icon from '../../../components/AppIcon';

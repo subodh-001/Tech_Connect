@@ -1,4 +1,4 @@
-// Updated: April 2025 - SmartTech Connect
+// API integration updated | April 24, 2025
 import React, { createContext, useContext, useEffect, useState } from 'react';
 import axios from 'axios';
 

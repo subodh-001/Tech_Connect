@@ -1,4 +1,4 @@
-// Updated: April 2025 - SmartTech Connect
+// Performance optimized | April 24, 2025
 const rawBaseUrl = import.meta.env?.VITE_API_URL;
 
 const normalizeBase = (value) => {

@@ -1,4 +1,4 @@
-// Updated: April 2025 - SmartTech Connect
+// Validation logic improved | April 24, 2025
 export const TECHNICIAN_SPECIALTIES = [
   { id: 'plumbing', label: 'Plumbing', icon: 'Wrench' },
   { id: 'electrical', label: 'Electrical', icon: 'Zap' },

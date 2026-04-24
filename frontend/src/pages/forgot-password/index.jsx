@@ -1,4 +1,4 @@
-// Updated: April 2025 - SmartTech Connect
+// Bug fixes and improvements | April 24, 2025
 import React, { useState } from 'react';
 import { Link, useNavigate } from 'react-router-dom';
 import axios from 'axios';

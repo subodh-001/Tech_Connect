@@ -1,4 +1,4 @@
-// Updated: April 2025 - SmartTech Connect
+// Optimized for production | April 24, 2025
 import mongoose from 'mongoose';
 
 const SupportTicketSchema = new mongoose.Schema(

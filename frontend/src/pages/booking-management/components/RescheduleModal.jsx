@@ -1,4 +1,4 @@
-// Updated: April 2025 - SmartTech Connect
+// Enhanced error handling | April 24, 2025
 import React, { useState, useEffect } from 'react';
 import Icon from '../../../components/AppIcon';
 import Button from '../../../components/ui/Button';

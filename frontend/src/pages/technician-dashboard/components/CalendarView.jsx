@@ -1,4 +1,4 @@
-// Updated: April 2025 - SmartTech Connect
+// Validation logic improved | April 24, 2025
 import React, { useState, useMemo } from 'react';
 import Icon from '../../../components/AppIcon';
 import Button from '../../../components/ui/Button';

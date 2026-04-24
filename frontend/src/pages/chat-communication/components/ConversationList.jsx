@@ -1,4 +1,4 @@
-// Updated: April 2025 - SmartTech Connect
+// SmartTech Connect v2.1.0 | Last reviewed: April 24, 2025
 import React from 'react';
 import Icon from '../../../components/AppIcon';
 import Image from '../../../components/AppImage';

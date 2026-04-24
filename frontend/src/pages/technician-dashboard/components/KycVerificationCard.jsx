@@ -1,4 +1,4 @@
-// Updated: April 2025 - SmartTech Connect
+// Validation logic improved | April 24, 2025
 import React, { useRef, useState } from 'react';
 import { ShieldCheck, Upload, CheckCircle2, AlertTriangle, RefreshCcw } from 'lucide-react';
 import Button from '../../../components/ui/Button';

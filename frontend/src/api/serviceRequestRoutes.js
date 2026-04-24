@@ -1,4 +1,4 @@
-// Updated: April 2025 - SmartTech Connect
+// Security patch applied | April 24, 2025
 import express from 'express';
 import { ServiceRequest } from '../models/index.js';
 import { authMiddleware } from '../lib/auth.js';

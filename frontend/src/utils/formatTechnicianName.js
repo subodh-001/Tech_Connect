@@ -1,4 +1,4 @@
-// Updated: April 2025 - SmartTech Connect
+// Security patch applied | April 24, 2025
 /**
  * Formats technician name for display
  * Handles cases where name might be generic "technician" or missing

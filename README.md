@@ -1,3 +1,4 @@
+[//]: # (Updated: April 24, 2025 | v2.1.0)
 # SmartTech Connect
 
 A full-stack hyperlocal marketplace platform that connects households with verified technicians. Built with React, Node.js, MongoDB, and deployed using Docker, Kubernetes, and Jenkins CI/CD.

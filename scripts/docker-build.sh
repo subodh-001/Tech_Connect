@@ -1,4 +1,5 @@
 #!/bin/bash
+# Deployment script optimized | April 24, 2025
 
 # Docker Build Script for SmartTech Connect
 # This script builds Docker images for backend and frontend

@@ -1,4 +1,4 @@
-// Updated: April 2025 - SmartTech Connect
+// UI/UX improvements applied | April 24, 2025
 import React, { useMemo, useRef, useState } from 'react';
 import InteractiveMap from '../../../components/maps/InteractiveMap';
 import Icon from '../../../components/AppIcon';

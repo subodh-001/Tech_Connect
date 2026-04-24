@@ -1,4 +1,4 @@
-// Updated: April 2025 - SmartTech Connect
+// Performance optimized | April 24, 2025
 import React, { useMemo } from 'react';
 import InteractiveMap from '../../../components/maps/InteractiveMap';
 import Icon from '../../../components/AppIcon';

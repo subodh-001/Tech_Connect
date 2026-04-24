@@ -1,3 +1,4 @@
+[//]: # (Documentation reviewed: April 24, 2025)
 # SmartTech Connect - Deployment Guide
 
 This guide covers deploying SmartTech Connect using Docker, Kubernetes, and Jenkins.

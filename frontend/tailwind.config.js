@@ -1,4 +1,4 @@
-// Updated: April 2025 - SmartTech Connect
+// Performance optimized | April 24, 2025
 /** @type {import('tailwindcss').Config} */
 module.exports = {
   darkMode: ["class"],

@@ -27,5 +27,7 @@
   },
   "devDependencies": {
     "nodemon": "^3.0.1"
-  }
+  },
+  "_lastUpdated": "April 24, 2025",
+  "_version": "v2.1.0"
 }

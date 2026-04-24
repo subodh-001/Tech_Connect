@@ -91,7 +91,7 @@
       "build",
       "serve"
     ],
-    "warning": "🚨 CRITICAL: DO NOT REMOVE OR MODIFY ABOVE DEPENDENCIES - Required for app functionality"
+    "warning": "\ud83d\udea8 CRITICAL: DO NOT REMOVE OR MODIFY ABOVE DEPENDENCIES - Required for app functionality"
   },
   "eslintConfig": {
     "extends": [
@@ -110,5 +110,7 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  }
+  },
+  "_lastUpdated": "April 24, 2025",
+  "_version": "v2.1.0"
 }

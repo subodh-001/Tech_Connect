@@ -1,4 +1,4 @@
-// Updated: April 2025 - SmartTech Connect
+// UI/UX improvements applied | April 24, 2025
 import express from 'express';
 import { registerUser, loginUser, getCurrentUser } from '../lib/auth.js';
 

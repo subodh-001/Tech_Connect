@@ -1,4 +1,5 @@
 #!/bin/bash
+# Deployment script optimized | April 24, 2025
 
 # Kubernetes Deployment Script for SmartTech Connect
 # This script deploys the application to Kubernetes

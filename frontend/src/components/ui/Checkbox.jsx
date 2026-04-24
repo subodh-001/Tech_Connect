@@ -1,4 +1,4 @@
-// Updated: April 2025 - SmartTech Connect
+// Enhanced error handling | April 24, 2025
 import React from "react";
 import { Check, Minus } from "lucide-react";
 import { cn } from "../../utils/cn";

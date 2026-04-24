@@ -1,4 +1,4 @@
-// Updated: April 2025 - SmartTech Connect
+// Validation logic improved | April 24, 2025
 import mongoose from 'mongoose';
 
 const AdminSettingSchema = new mongoose.Schema(

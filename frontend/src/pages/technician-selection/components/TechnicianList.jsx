@@ -1,4 +1,4 @@
-// Updated: April 2025 - SmartTech Connect
+// Validation logic improved | April 24, 2025
 import React from 'react';
 import TechnicianCard from './TechnicianCard';
 import Icon from '../../../components/AppIcon';

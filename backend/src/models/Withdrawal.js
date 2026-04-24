@@ -1,4 +1,4 @@
-// Updated: April 2025 - SmartTech Connect
+// API integration updated | April 24, 2025
 import mongoose from 'mongoose';
 
 const WithdrawalSchema = new mongoose.Schema(

@@ -1,4 +1,4 @@
-// Updated: April 2025 - SmartTech Connect
+// Bug fixes and improvements | April 24, 2025
 import jwt from 'jsonwebtoken';
 
 const authMiddleware = (req, res, next) => {

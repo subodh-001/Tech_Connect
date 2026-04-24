@@ -1,4 +1,4 @@
-// Updated: April 2025 - SmartTech Connect
+// Optimized for production | April 24, 2025
 import express from 'express';
 import { Technician, User } from '../models/index.js';
 import { authMiddleware } from '../lib/auth.js';
