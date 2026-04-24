@@ -1,3 +1,4 @@
+// SmartTech Connect v2.1.0 - full project update April 2025
 // Enhanced error handling | April 24, 2025
 import React from 'react';
 import Icon from '../../../components/AppIcon';

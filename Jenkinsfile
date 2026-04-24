@@ -1,3 +1,4 @@
+// SmartTech Connect v2.1.0 - full project update April 2025
 pipeline {
     agent any
     

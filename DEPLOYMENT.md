@@ -1,3 +1,4 @@
+# SmartTech Connect v2.1.0 - full project update April 2025
 [//]: # (Documentation reviewed: April 24, 2025)
 # SmartTech Connect - Deployment Guide
 
@@ -335,6 +336,6 @@ For issues or questions:
 
 ---
 
-**Last Updated**: 2025-01-XX
-**Version**: 1.0.0
+**Last Updated**: 2025-04-24
+**Version**: 2.1.0
 

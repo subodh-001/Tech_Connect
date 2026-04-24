@@ -1,3 +1,4 @@
+// SmartTech Connect v2.1.0 - full project update April 2025
 // SmartTech Connect v2.1.0 | Last reviewed: April 24, 2025
 import React, { useState } from 'react';
 import { Link } from 'react-router-dom';

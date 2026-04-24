@@ -1,3 +1,4 @@
+// SmartTech Connect v2.1.0 - full project update April 2025
 // Bug fixes and improvements | April 24, 2025
 import axios from 'axios';
 import { getApiBaseUrl } from '../utils/apiBase';

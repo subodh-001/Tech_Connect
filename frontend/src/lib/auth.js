@@ -1,3 +1,4 @@
+// SmartTech Connect v2.1.0 - full project update April 2025
 // SmartTech Connect v2.1.0 | Last reviewed: April 24, 2025
 import jwt from 'jsonwebtoken';
 import { User, UserSetting } from '../models/index.js';

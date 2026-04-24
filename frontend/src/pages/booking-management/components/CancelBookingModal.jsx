@@ -1,3 +1,4 @@
+// SmartTech Connect v2.1.0 - full project update April 2025
 // Security patch applied | April 24, 2025
 import React, { useState } from 'react';
 import Icon from '../../../components/AppIcon';

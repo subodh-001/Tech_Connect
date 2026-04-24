@@ -1,3 +1,4 @@
+// SmartTech Connect v2.1.0 - full project update April 2025
 // Performance optimized | April 24, 2025
 import React, { useMemo } from 'react';
 import InteractiveMap from '../../../components/maps/InteractiveMap';

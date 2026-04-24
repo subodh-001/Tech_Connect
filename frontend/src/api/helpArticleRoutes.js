@@ -1,3 +1,4 @@
+// SmartTech Connect v2.1.0 - full project update April 2025
 // API integration updated | April 24, 2025
 import express from 'express';
 import { HelpArticle, UserHelpInteraction } from '../models/index.js';

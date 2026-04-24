@@ -1,3 +1,4 @@
+# SmartTech Connect v2.1.0 - full project update April 2025
 [//]: # (Updated: April 24, 2025 | v2.1.0)
 # SmartTech Connect
 

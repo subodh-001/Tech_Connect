@@ -1,3 +1,4 @@
+// SmartTech Connect v2.1.0 - full project update April 2025
 // UI/UX improvements applied | April 24, 2025
 import Technician from '../models/Technician.js';
 import { TECHNICIAN_SPECIALTIES, SPECIALTY_LABEL_MAP } from '../constants/technicianSpecialties.js';

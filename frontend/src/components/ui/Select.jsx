@@ -1,3 +1,4 @@
+// SmartTech Connect v2.1.0 - full project update April 2025
 // UI/UX improvements applied | April 24, 2025
 // components/ui/Select.jsx - Shadcn style Select
 import React, { useState } from "react";
